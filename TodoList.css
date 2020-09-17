@@ -1,0 +1,50 @@
+.container {
+    background: #e63434;
+    margin: 0 auto;
+    width: 650px;
+}
+h1{
+    color: #ffffff;
+    font-size: x-large;
+}
+input[type=text]{
+    margin-left: 50px;
+    width: 480px;
+}
+
+ul{
+    list-style-type: none;
+    
+}
+li{
+    
+    background: #ffffff;
+    margin-bottom: -25px;
+    margin-left: 290px;
+    padding: 0 30px;
+    width: 650px;
+    height: 35px;
+    font-size: 1rem;
+    font-weight: 600;
+}
+#btndone, #btndel{
+    outline: none;
+    background: #ffffff;
+    float: right;
+    border: none;
+    
+}
+#btndone1, #btndel1{
+    outline: none;
+    background: #6e6d6d;
+    float: right;
+    border: none;
+    
+}
+input[type =checkbox]{
+    margin-right: 20px;
+}
+.done{
+    text-decoration: line-through;
+    background: #6e6d6d;
+}
